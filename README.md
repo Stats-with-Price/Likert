@@ -16,7 +16,7 @@ To fix this, you can:
 2. Click "Chart Design" at the top of the screen.
 3. Click "Select Data."
 4. Under the "Horzinal (Category) Axis Labels), scroll and click the non-empty boxes.
-If you see any other issues, please leave a comment here or send me an email @ price.1861@osu.edu.
+If you see any other issues, please leave a comment here or send me an email @price.1861@osu.edu.
 
 ADVANCED:
 If you want to use another Excel Data Analysis Toolpack to measure other statistics like kurtosis or conduct
